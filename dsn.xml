@@ -1,0 +1,5 @@
+<?xml version="1.8" encoding="utf-8"?>
+<root>
+    <dsn>mysql:dbname=test;host=localhost</dsn>
+    <name>root</name>
+</root>

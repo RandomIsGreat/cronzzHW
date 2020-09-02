@@ -1,0 +1,4 @@
+{
+  "dsn" : "mysql:dbname=test;host=localhost",
+  "root" : "root"
+}
